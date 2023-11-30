@@ -22,18 +22,18 @@ The Adidas sales dataset for analysis is obtained from Kaggle. The Adidas sales 
    
 2. Businesses can also gain valuable insights into the characteristics and attributes of each cluster by using K-means clustering.
    
-     Low Sales, Low Profit Retailer Segment
+     Low Sales, Low Profit Retailer Segment <br />
    
-      •	Price Optimization
-      •	Retailers Service Discontinuation
+      •	Price Optimization <br />
+      •	Retailers Service Discontinuation <br />
    
-     Moderate Sales, Moderate Profit Retailer Segment
+     Moderate Sales, Moderate Profit Retailer Segment <br />
    
-      •	Retail Store Enhancement
-      •	Provide personalized experience
+      •	Retail Store Enhancement <br />
+      •	Provide personalized experience <br />
    
-    High Sales, High Profit Retailer Segment
-      •	Strengthen Partnerships
-      •	Innovative Products
+    High Sales, High Profit Retailer Segment <br />
+      •	Strengthen Partnerships <br />
+      •	Innovative Products <br />
 
 4. There is more positive feedback than negative feedback, indicating that customers express favourable opinions towards Adidas products. However, negative reviews should be resolved to improve customer satisfaction.
