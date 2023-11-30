@@ -21,14 +21,19 @@ The Adidas sales dataset for analysis is obtained from Kaggle. The Adidas sales 
 1. ARIMA time-series model is utilized to forecast the total sales for the next 11 months, specifically from 2nd January 2022 to 2nd December 2022 in the Adidas sales data. The line graph shows the forecasted total sales for the next 11 months display a consistent and steady increase, indicating that the Adidas product demand is projected to increase gradually in the next 11 months. The rising trend in the predicted total sales indicates a favourable market and rising customer demand for Adidas products.
    
 2. Businesses can also gain valuable insights into the characteristics and attributes of each cluster by using K-means clustering.
+   
      Low Sales, Low Profit Retailer Segment
+   
       •	Price Optimization
       •	Retailers Service Discontinuation
+   
      Moderate Sales, Moderate Profit Retailer Segment
+   
       •	Retail Store Enhancement
       •	Provide personalized experience
+   
     High Sales, High Profit Retailer Segment
       •	Strengthen Partnerships
       •	Innovative Products
 
-3. There is more positive feedback than negative feedback, indicating that customers express favourable opinions towards Adidas products. However, negative reviews should be resolved to improve customer satisfaction.
+4. There is more positive feedback than negative feedback, indicating that customers express favourable opinions towards Adidas products. However, negative reviews should be resolved to improve customer satisfaction.
